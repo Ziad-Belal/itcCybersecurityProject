@@ -1,7 +1,6 @@
 
-Perfect 👍
-A **professional README** is *very important* in competitions.
-Below is a **clean, serious, judge-ready `README.md`** you can copy **as-is**.
+
+
 
 
 
