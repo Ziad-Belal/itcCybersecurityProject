@@ -190,7 +190,4 @@ This software is intended **solely for educational and research purposes**.
 The authors take no responsibility for misuse of this project.
 
 
-- Add a **GUI dashboard** for extra points
 
-Just tell me 👍
-```
